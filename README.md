@@ -1,6 +1,10 @@
 # 👋 Welcome to My GitHub Profile!
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+Developer;Laravel+%7C+Python+%7C+C%2B%2B+%7C+Linux;Building+Scalable+%26+Efficient+Systems;Always+Learning+%26+Improving!" />
 </p>
 
