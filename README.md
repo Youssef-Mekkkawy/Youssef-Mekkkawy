@@ -6,7 +6,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Youssef-Mekkkawy&color=blue)
 
 ## 🚀 About Me
 🔹 Passionate about software engineering, backend development, and automation.
@@ -20,9 +20,9 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula" />
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Mekkkawy&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Mekkkawy&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Mekkkawy&theme=dracula" />
 </p>
 
 ## 🎬 Latest Project Showcase
