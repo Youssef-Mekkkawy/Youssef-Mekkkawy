@@ -31,7 +31,7 @@
 
 ## 🎬 Latest Project Showcase
 <p align="center">
-  <img src="https://your-gif-url.com/coding.gif" width="500" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="500" alt="Coding Animation">
 </p>
 
 ## 🌐 Connect With Me
