@@ -23,22 +23,24 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Mekkkawy&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Mekkkawy&theme=dracula" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Mekkkawy&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Mekkkawy&show_icons=true&theme=dracula" style="margin-bottom: 20px;" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Mekkkawy&theme=dracula" style="margin-bottom: 20px;" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Mekkkawy&theme=dracula" style="margin-bottom: 20px;" />
 </p>
 
 ## 🎬 Latest Project Showcase
-
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:youssef.mekkawy2020@gmail.com"><img src="https://img.shields.io/badge/Email-Mail%20Me-red?style=flat&logo=gmail" /></a>
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
   <!-- <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" /></a> -->
-
-  
 </p>
 
 ---
