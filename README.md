@@ -42,10 +42,10 @@ I'm a passionate software engineer who loves tackling complex challenges and bui
 - [Project Name](link_to_project): A brief description of the project, its goals, and technologies used.
 - [Another Project](link_to_project): A short explanation about what this project is and why it's special.
 
-## 🌱 Open-Source Contributions
+<!-- ## 🌱 Open-Source Contributions
 I love contributing to open-source projects. Here are a few notable contributions:
 - [Project Name](link): Contributed to [specific feature or fix].
-- [Another Project](link): Helped improve [documentation/performance/feature].
+- [Another Project](link): Helped improve [documentation/performance/feature].-->
 
 ## 🌐 Connect With Me
 <p align="center">
