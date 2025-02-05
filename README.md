@@ -50,7 +50,7 @@ I love contributing to open-source projects. Here are a few notable contribution
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:youssef.mekkawy2020@gmail.com"><img src="https://img.shields.io/badge/Email-Mail%20Me-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/youssef-gamal-mohamed-93621a2a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
 <!-- <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" /></a>
   <a href="https://stackoverflow.com/users/your-user-id"><img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=flat&logo=stackoverflow" /></a>
 </p>-->
