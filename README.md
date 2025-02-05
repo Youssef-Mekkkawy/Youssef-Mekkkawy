@@ -13,9 +13,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Youssef-Mekkkawy&color=blue)
 
 ## 🚀 About Me
-🔹 Passionate about software engineering, backend development, and automation.
-🔹 Experienced in Laravel, Python, C/C++, and Linux systems.
-🔹 Love solving complex problems and optimizing code for performance.
+🔹 Passionate about software engineering, backend development, and automation.\n
+🔹 Experienced in Laravel, Python, C/C++, and Linux systems.\n
+🔹 Love solving complex problems and optimizing code for performance.\n
 
 ## ⚡ Tech Stack & Tools
 <p align="center">
@@ -30,9 +30,7 @@
 </p>
 
 ## 🎬 Latest Project Showcase
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="500" alt="Coding Animation">
-</p>
+
 
 ## 🌐 Connect With Me
 <p align="center">
