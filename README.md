@@ -34,9 +34,11 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Mail%20Me-red?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" /></a>
+  <a href="mailto:youssef.mekkawy2020@gmail.com"><img src="https://img.shields.io/badge/Email-Mail%20Me-red?style=flat&logo=gmail" /></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <!-- <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" /></a> -->
+
+  
 </p>
 
 ---
