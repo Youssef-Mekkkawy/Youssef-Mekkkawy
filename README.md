@@ -1,52 +1,137 @@
-# 💫 About Me:
-I am a results-driven **Software Engineer** specializing in **Backend Development, Data Engineering, and Embedded Systems** with 5 years of hands-on experience in Python and 2 years in Laravel. 
+<div align="center">
 
-I love tackling complex computational challenges, architecting scalable database systems, and optimizing code for maximum performance. From building low-latency AI voice streaming agents to engineering robust automation pipelines that process massive datasets, I focus on turning complex problems into secure, high-performance solutions.
+<img src="./assets/banner.svg" alt="Youssef Gamal - Software Engineer" width="100%"/>
 
-🔹 **Core Expertise:** Scalable System Design, Advanced Web Scraping/Automation, LLM & AI Integration, and Hardware-Software Systems.<br>
-🔹 **Certified in:** Cybersecurity Fundamentals (Cisco) and Programming with Python (Harvard University).
+<br/>
 
----
+**I love building systems: the kind that run quietly, scale cleanly, and keep working when nobody is watching.**
 
-## 🚀 Featured Case Studies & System Architecture
-* **High-Scale E-Commerce (Retail):** Engineered a highly optimized Laravel/React platform processing 10,000+ daily orders with real-time tracking.
-* **AI Demand Forecasting:** Built a "Smart Inventory AI" using Python & TensorFlow to minimize overstock costs and automate supply chain decisions.
-* **Market & Competitor Intelligence (Finance/Research):** Developed robust ETL pipelines using Python, Scrapy, and Kafka to scrape, clean, and monitor market price fluctuations and aggregate global news seamlessly.
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-gamal-mohamed-93621a2a3)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youssef.mekkawy2020@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Youssef--Mekkkawy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Youssef-Mekkkawy)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-gamal-mohamed-93621a2a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.mekkawy2020@gmail.com) 
+</div>
 
 ---
 
-# 💻 Tech Stack:
-### Backend, AI & Data Engineering:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+### `> about`
 
-### Frontend & Architecture:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+```python
+class Youssef:
+    role       = "Software Engineer"
+    experience = {"python": "5 years", "laravel": "2 years"}
+    strengths  = ["backend architecture", "data pipelines", "automation", "LLM integration"]
+    mindset    = "measure first, optimize second, ship always"
 
-### Databases, Tools & OS:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    def build(self, problem):
+        return self.design(problem) | self.test() | self.ship()
+```
+
+---
+
+### `> what i build`
+
+| | |
+|---|---|
+| 🏗️ **Scalable backends** | APIs and platforms designed to handle real traffic, with clean data models and predictable performance. |
+| 🕸️ **Data & automation** | Scraping, ETL and streaming pipelines that collect, clean and monitor large volumes of data. |
+| 🤖 **AI-powered tools** | LLM integrations, forecasting models and voice/streaming agents with low latency. |
+| 🔌 **Hardware + software** | Embedded and low-level work where code meets the physical world. |
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Youssef-Mekkkawy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Mekkkawy&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Mekkkawy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### `> toolbox`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Youssef-Mekkkawy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Youssef-Mekkkawy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b"/>
+      <img src="https://img.shields.io/badge/PHP-1f2937?style=flat-square&logo=php&logoColor=8892bf"/>
+      <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178c6"/>
+      <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=f7df1e"/>
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-1f2937?style=flat-square&logo=cplusplus&logoColor=00599c"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-1f2937?style=flat-square&logo=laravel&logoColor=ff2d20"/>
+      <img src="https://img.shields.io/badge/FastAPI-1f2937?style=flat-square&logo=fastapi&logoColor=009688"/>
+      <img src="https://img.shields.io/badge/Flask-1f2937?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-1f2937?style=flat-square&logo=apachekafka&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=flat-square&logo=tensorflow&logoColor=ff6f00"/>
+      <img src="https://img.shields.io/badge/Scrapy-1f2937?style=flat-square&logo=scrapy&logoColor=60a839"/>
+      <img src="https://img.shields.io/badge/Selenium-1f2937?style=flat-square&logo=selenium&logoColor=43b02a"/>
+      <img src="https://img.shields.io/badge/FFmpeg-1f2937?style=flat-square&logo=ffmpeg&logoColor=5cb85c"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61dafb"/>
+      <img src="https://img.shields.io/badge/Vue.js-1f2937?style=flat-square&logo=vuedotjs&logoColor=4fc08d"/>
+      <img src="https://img.shields.io/badge/Tailwind-1f2937?style=flat-square&logo=tailwindcss&logoColor=38bdf8"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169e1"/>
+      <img src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479a1"/>
+      <img src="https://img.shields.io/badge/SQLite-1f2937?style=flat-square&logo=sqlite&logoColor=07405e"/>
+      <img src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ed"/>
+      <img src="https://img.shields.io/badge/Ubuntu-1f2937?style=flat-square&logo=ubuntu&logoColor=e95420"/>
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Youssef-Mekkkawy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+### `> selected work`
 
-<!-- Proudly created and perfectly optimized for a Lead Backend Engineer -->
+<details>
+<summary><b>🛒 High-scale retail platform</b></summary>
+<br/>
+
+A Laravel + React e-commerce platform handling 10,000+ orders per day with real-time order tracking.
+
+</details>
+
+<details>
+<summary><b>📦 Smart inventory forecasting</b></summary>
+<br/>
+
+Python + TensorFlow demand forecasting that reduces overstock and automates supply-chain decisions.
+
+</details>
+
+<details>
+<summary><b>📈 Market intelligence pipelines</b></summary>
+<br/>
+
+Python, Scrapy and Kafka ETL that scrapes, cleans and monitors price movements and global news.
+
+</details>
+
+---
+
+### `> credentials`
+
+- 🛡️ Cybersecurity Fundamentals, **Cisco**
+- 🐍 Programming with Python, **Harvard University**
+
+---
+
+<div align="center">
+
+<sub>Open to interesting problems and good collaborators.</sub>
+
+</div>
