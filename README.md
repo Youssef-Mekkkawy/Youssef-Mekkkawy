@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-gamal-mohamed-93621a2a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-gamal-m-494865146/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youssef.mekkawy2020@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Youssef--Mekkkawy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Youssef-Mekkkawy)
 
