@@ -12,9 +12,9 @@ Building software that works quietly, solves real problems, and does not need to
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Youssef--Mekkkawy-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Youssef-Mekkkawy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/youssef-gamal-m-494865146/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:youssef.mekkawy2020@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Youssef--Mekkkawy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Youssef-Mekkkawy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-gamal-m-494865146/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youssef.mekkawy2020@gmail.com)
 
 </div>
 
@@ -32,9 +32,9 @@ BUILDING    Software, open-source tools, and systems that automate work
 
 I am a Software Engineer who enjoys turning repetitive, complicated work into systems that can handle it on their own.
 
-My main focus is **Python, Laravel, backend development, automation, web scraping, data workflows, and AI integration**.
+My main focus is **Python, Laravel, FastAPI, backend development, automation, web scraping, data workflows, and AI integration**.
 
-I also work with C++, Linux, Git, MySQL, MongoDB, PostgreSQL, Docker, FastAPI, and Vue.js.
+I also work with C++, Linux, Git, MySQL, MongoDB, PostgreSQL, Docker, and Vue.js.
 
 I care less about making software look impressive in a demo and more about making it **useful, maintainable, testable, and reliable in real use**.
 
@@ -90,12 +90,6 @@ class Youssef:
 
 I like software that keeps working when nobody is watching it.
 
-That means thinking about the structure first, understanding the rules of the system, testing important behavior, and making the result understandable enough that another developer can work with it later.
-
-For me, **clean code is not about making code look clever**.
-
-It is about making the next change easier.
-
 ---
 
 ## `/opensource`
@@ -104,7 +98,7 @@ Open source is a big part of what I enjoy building.
 
 I like creating tools that solve problems I personally encounter, then turning those tools into software that other developers can use, modify, and build on.
 
-A lot of my open-source work is focused around **automation, developer tooling, and making repetitive work easier**.
+A lot of my open-source work is focused around **automation, developer tooling, REST APIs, and making repetitive work easier**.
 
 ```text
 BUILD SOMETHING
@@ -120,12 +114,14 @@ OPEN IT
 LET OTHERS USE IT
 ```
 
-I want my GitHub to be more than a collection of experiments.
+### Featured
 
-It is a place where I build, learn, publish, and share software.
+| Project | Description | Stack |
+|---|---|---|
+| [Islam Mate API](https://github.com/Youssef-Mekkkawy/islam-mate-api) | Open-source Islamic REST API — Prayer times, Hadith, Azkar, Quran, Qibla | Python · FastAPI |
+| [Laravel AI Translator](https://github.com/Youssef-Mekkkawy/laravel-ai-translator) | AI-powered translation package for Laravel applications | PHP · Laravel |
 
-→ **Explore my repositories:**
-https://github.com/Youssef-Mekkkawy?tab=repositories
+→ **Explore all repositories:** https://github.com/Youssef-Mekkkawy?tab=repositories
 
 ---
 
@@ -154,7 +150,6 @@ https://github.com/Youssef-Mekkkawy?tab=repositories
 <img src="https://img.shields.io/badge/Scrapy-1f2937?style=flat-square&logo=scrapy&logoColor=60a839"/>
 <img src="https://img.shields.io/badge/Selenium-1f2937?style=flat-square&logo=selenium&logoColor=43b02a"/>
 <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=flat-square&logo=tensorflow&logoColor=ff6f00"/>
-<img src="https://img.shields.io/badge/FFmpeg-1f2937?style=flat-square&logo=ffmpeg&logoColor=white"/>
 </p>
 
 ### Databases & Infrastructure
@@ -179,8 +174,6 @@ https://github.com/Youssef-Mekkkawy?tab=repositories
 
 ## `/projects`
 
-I build across a few connected areas:
-
 ```text
 ┌────────────────────────────────────────────┐
 │ BACKEND                                    │
@@ -197,27 +190,17 @@ I build across a few connected areas:
 └────────────────────────────────────────────┘
 ```
 
-Most of my projects start with a simple question:
-
-> **Can this process be made simpler, faster, or automatic?**
-
 ---
 
 ## `/now`
 
-Currently, I am focused on:
-
 ```text
-→ studying Computer Science
-→ building backend systems
-→ developing automation tools
+→ studying Computer Science at SUT
+→ building backend systems and REST APIs
+→ developing open-source Islamic developer tools
 → experimenting with AI-powered software
-→ creating and maintaining open-source projects
-→ learning new technologies by building with them
-→ improving the way software is tested, structured, and deployed
+→ freelance full-stack development
 ```
-
-I am especially interested in the space where **backend engineering, automation, data, and AI meet**.
 
 ---
 
@@ -228,51 +211,11 @@ There is more to me than code.
 I am a **big gaming fan**, especially when a game gives me a world worth exploring.
 
 ```text
-COMPETITIVE
-  VALORANT
-  Rainbow Six Siege
-
-OPEN WORLD
-  Grand Theft Auto V
-  Assassin's Creed
-  Far Cry series
-
-WHAT I LOOK FOR
-  exploration
-  open worlds
-  looting
-  progression
-  good stories
-  interesting worlds
+COMPETITIVE       VALORANT · Rainbow Six Siege
+OPEN WORLD        GTA V · Assassin's Creed · Far Cry
 ```
 
-I enjoy games where I can explore, find things I was not looking for, build up my character or equipment, and get completely lost in the world.
-
-Sometimes that means playing competitively.
-
-Sometimes it means spending hours exploring an open world instead of doing the actual mission.
-
-```text
-"Go to the objective."
-       ↓
-"Sure."
-       ↓
-*finds something interesting on the map*
-       ↓
-"maybe later."
-```
-
-### `// another side of the same curiosity`
-
-I also love **building PCs**.
-
-Choosing the hardware, putting everything together, organizing the cables, setting up the system, troubleshooting something that is not working, and learning why it works the way it does is genuinely enjoyable to me.
-
-I like understanding things from the inside instead of simply using them.
-
-And that applies beyond PCs.
-
-**I like learning something new, taking it apart mentally, and eventually building something with it.**
+I also love **building PCs** — choosing the hardware, putting everything together, and learning why it works the way it does.
 
 ---
 
@@ -280,23 +223,14 @@ And that applies beyond PCs.
 
 ```text
 01  Understand the problem before choosing the technology.
-
 02  Design the structure before writing too much code.
-
 03  Automate repetitive work whenever it makes sense.
-
 04  Test behavior that matters.
-
 05  Prefer simple systems that are easy to understand.
-
 06  Do not build only for the demo.
-
 07  Make software that another developer can maintain.
-
 08  Learn by building, not only by reading.
-
 09  When something can fail, think about how it fails.
-
 10  Keep improving.
 ```
 
@@ -304,53 +238,15 @@ And that applies beyond PCs.
 
 ## `/education`
 
-**AASTMT**
-Mechatronics — Diploma with Honors
+**AASTMT** — Mechatronics · Diploma with Honors
 
-**SUT**
-Computer Science — Current
-
-My engineering background still influences how I approach software:
-
-```text
-systems first
-components second
-details everywhere
-```
-
----
-
-## `/work`
-
-I work independently as a **freelance full-stack developer** and run my own company.
-
-I enjoy working through the whole process:
-
-```text
-idea
- ↓
-architecture
- ↓
-implementation
- ↓
-testing
- ↓
-deployment
- ↓
-maintenance
-```
-
-I do not just want to write a piece of code.
-
-I want to understand the system around it.
+**SUT** — Computer Science · Current
 
 ---
 
 ## `/contact`
 
-I am interested in:
-
-**software engineering · backend systems · AI · automation · open source · interesting technical problems**
+**software engineering · backend systems · AI · automation · open source · REST APIs · Python · Laravel · FastAPI**
 
 ```text
 GitHub    → https://github.com/Youssef-Mekkkawy
